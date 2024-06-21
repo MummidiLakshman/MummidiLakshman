@@ -18,5 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mummidilakshman&show_icons=true&locale=en" alt="mummidilakshman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mummidilakshman&" alt="mummidilakshman" /></p>
-[![Lakshman's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=mummidi_lakshman((https://www.geeksforgeeks.org/user/mummidi_lakshman/))
+
+
 ![LeetCode Stats](https://leetcode.card.workers.dev/lakshman_0201?theme=forest&font=baloo&extension=null)
