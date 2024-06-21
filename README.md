@@ -21,3 +21,5 @@
 
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/lakshman_0201?theme=forest&font=baloo&extension=null)
+
+[![Lakshman's stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=mummidi_lakshman((https://www.geeksforgeeks.org/user/mummidi_lakshman/))
